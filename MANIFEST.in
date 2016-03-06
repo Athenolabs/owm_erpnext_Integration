@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include openweather_integration *.css
+recursive-include openweather_integration *.csv
+recursive-include openweather_integration *.html
+recursive-include openweather_integration *.ico
+recursive-include openweather_integration *.js
+recursive-include openweather_integration *.json
+recursive-include openweather_integration *.md
+recursive-include openweather_integration *.png
+recursive-include openweather_integration *.py
+recursive-include openweather_integration *.svg
+recursive-include openweather_integration *.txt
+recursive-exclude openweather_integration *.pyc
