@@ -2,7 +2,21 @@
 <project version="4">
   <component name="PublishConfigData" persistUploadOnCheckin="false">
     <serverData>
+      <paths name="foxtrotli.co">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="google-eprnext-develop">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu-erpnext-develop">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

@@ -5,10 +5,10 @@ app_name = "openweather_integration"
 app_title = "Openweather Integration"
 app_publisher = "Brandon Fox, Foxtrot"
 app_description = "Openweathermap.org"
-app_icon = "octicon octicon-file-directory"
+app_icon = "glyphicon glyphicon-cloud"
 app_color = "grey"
 app_email = "bfox@foxtrot.email"
-app_version = "0.0.1"
+app_version = "0.0.2"
 app_license = "MIT"
 
 # Includes in <head>
