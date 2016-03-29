@@ -1,6 +1,5 @@
 from __future__ import unicode_literals
 from frappe import _
-import pyowm
 
 
 def get_data():
@@ -11,7 +10,7 @@ def get_data():
             "items": [
                 {
                     "type": "doctype",
-                    "name": "Openweather API Settings",
+                    "name": "OWM API Settings",
                     "description": _("Setup Open Weather Map API credentials"),
                     "hide_count": True
                 }
