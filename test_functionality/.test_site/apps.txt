@@ -1,2 +1,0 @@
-erpnext
-owm_integration
