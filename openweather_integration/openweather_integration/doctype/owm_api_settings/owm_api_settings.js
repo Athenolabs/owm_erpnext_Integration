@@ -3,6 +3,9 @@
 
 frappe.ui.form.on('OWM API Settings', {
 	refresh: function(frm) {
+		frm.add_custom_button(__("OWM Test"), function() {
+			
+		})
 
 	}
 });
