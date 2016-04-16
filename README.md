@@ -10,6 +10,9 @@ Take a "snapshot" of weather using the automated API from OpenWeatherMap.org, an
 Weather Logs:
 List of all informtation collected in read-only form for past API calls. Uses DATETIME of API call as the name of the document. 
 
+Allow Greenhouses to Access API:
+TODO The is a future use for the integration. The purpose is to allow the Greenhouse Module the ability to make calls and to setup the Greenhouse app to allow for the calls and setups.
+
 ## NOTE FROM AUTHOR
 
 The real functionality of this code is to help me learn about ERPNext and how custom apps interact with the framework. 
@@ -26,4 +29,5 @@ and eventually perform automated actions based upon the weather
     If wind exceeds MPH set, BATTON DOWN THE HATCHES
     Turn lights on after sunset until set light requirement is met. 
     ETC.
+    Don't water if it is currently raining, or even water less depending on the current rain fall. 
 
